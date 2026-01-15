@@ -17,11 +17,3 @@ permalink: /
 >
 > <br>
 > _Obiettivo:_ Rendere l'apprendimento universitario più accessibile e collaborativo tramite l'Open Source.
-
-## <a id="contatti"></a>📫 Contatti
-
-Hai un'idea o vuoi collaborare su un progetto Open Source?
-
-- **GitHub:** [@cresh-dev](https://github.com/cresh-dev)
-- **Email:** [alessiocrescenzio100@gmail.com](mailto:alessiocrescenzio100@gmail.com)
-- **Linkedin:** [Alessio Crescenzio](https://www.linkedin.com/in/alessio-crescenzio)

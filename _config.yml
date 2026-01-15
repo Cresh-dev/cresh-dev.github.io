@@ -1,7 +1,8 @@
-title: Cresh-dev
+title: Alessio Crescenzio
 author: Alessio Crescenzio
 description: >
-  Cybersecurity & Cloud Engineering Student @ PoliBA
+  Sono uno studente di Ingegneria Informatica con percorso in Cybersecurity e Cloud presso il PoliBA. Mi appassiona capire come funzionano i sistemi complessi e come renderli sicuri.
+  Qui troverai i miei appunti universitari, i miei progetti e altre cose che faccio.
 url: ""
 remote_theme: abhinavs/moonwalk
 
@@ -17,6 +18,8 @@ theme_config:
 
   show_description: true
   show_navbar: true
-  show_footer: false
+  show_footer: true
+  show_copyright: true
   show_projects: false
   show_blog: false
+  show_reading_time: false
