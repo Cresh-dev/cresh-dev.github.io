@@ -1,0 +1,5 @@
+navbar_entries:
+  - title: Chi Sono
+    url: /chi-sono
+  - title: Progetti
+    url: /progetti

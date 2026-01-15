@@ -1,3 +1,22 @@
-theme: jekyll-theme-minimal
-title: Octocat's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Cresh-dev
+author: Alessio Crescenzio
+description: >
+  Cybersecurity & Cloud Engineering Student @ PoliBA
+url: ""
+remote_theme: abhinavs/moonwalk
+
+plugins:
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+theme_config:
+  appearance: "auto"
+  appearance_toggle: true
+  back_home_text: "← Home"
+  date_format: "%d-%m-%Y"
+
+  show_description: true
+  show_navbar: true
+  show_footer: false
+  show_projects: false
+  show_blog: false
