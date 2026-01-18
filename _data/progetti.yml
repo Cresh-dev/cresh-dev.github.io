@@ -1,0 +1,11 @@
+- titolo: "Control Of Network Systems"
+  descrizione: "Appunti completi del corso del Prof. Mascolo."
+  tech: "LaTeX, Markdown"
+  link_sito: "https://cresh-dev.github.io/Control-Of-Network-Systems/"
+  link_repo: "https://github.com/Cresh-dev/Control-Of-Network-Systems"
+
+- titolo: "Cryptography"
+  descrizione: "Appunti di crittografia basati sulle lezioni del Prof. Pavese."
+  tech: "LaTeX, Markdown"
+  link_sito: "https://cresh-dev.github.io/Cryptography/"
+  link_repo: "https://github.com/Cresh-dev/Cryptography"

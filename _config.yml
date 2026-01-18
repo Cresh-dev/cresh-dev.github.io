@@ -1,25 +1,37 @@
 title: Alessio Crescenzio
 author: Alessio Crescenzio
+email: alessiocrescenzio100@gmail.com
 description: >
-  Sono uno studente di Ingegneria Informatica con percorso in Cybersecurity e Cloud presso il PoliBA. Mi appassiona capire come funzionano i sistemi complessi e come renderli sicuri.
-  Qui troverai i miei appunti universitari, i miei progetti e altre cose che faccio.
-url: ""
-remote_theme: abhinavs/moonwalk
+  Ingegneria Informatica, Cybersecurity & Cloud @ PoliBA
+url: "https://cresh-dev.github.io"
+lang: it-IT
+
+github_username: Cresh-dev
+linkedin_username: alessio-crescenzio
+
+theme: jekyll-theme-minimal
+logo: assets/img/avatar.webp
+show_downloads: false
+
+permalink: pretty
+
+markdown: kramdown
+kramdown:
+  input: GFM
+  syntax_highlighter: rouge
+
+google_analytics: G-SMCR0BZTPQ
 
 plugins:
   - jekyll-seo-tag
   - jekyll-remote-theme
+  - jekyll-sitemap
 
-theme_config:
-  appearance: "auto"
-  appearance_toggle: true
-  back_home_text: "← Home"
-  date_format: "%d-%m-%Y"
-
-  show_description: true
-  show_navbar: true
-  show_footer: true
-  show_copyright: true
-  show_projects: false
-  show_blog: false
-  show_reading_time: false
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/

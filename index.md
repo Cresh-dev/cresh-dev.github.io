@@ -1,19 +1,21 @@
 ---
-layout: home
+layout: default
 title: Home
 permalink: /
 ---
 
-## 🌟 In Evidenza
+## 👋 Benvenuto
 
-> **📚 Appunti Open Source - Magistrale PoliBA**
->
-> Sto digitalizzando e condividendo appunti completi per il corso di laurea magistrale in **Ingegneria Informatica (Cybersecurity & Cloud)**.
->
-> **Corsi disponibili:**
->
-> - [📡 Control Of Network Systems](https://cresh-dev.github.io/Control-Of-Network-Systems/)
-> - [🔐 Cryptography](https://cresh-dev.github.io/Cryptography/)
->
-> <br>
-> _Obiettivo:_ Rendere l'apprendimento universitario più accessibile e collaborativo tramite l'Open Source.
+Sono uno studente di **Ingegneria Informatica** con focus su **Cybersecurity & Cloud**. Qui raccolgo i miei studi, i miei progetti e contribuisco alla community Open Source.
+
+### 🌟 In Evidenza
+
+Sto digitalizzando gli appunti per la magistrale al **PoliBA**. L'obiettivo è rendere la conoscenza accessibile e collaborativa.
+
+| Corso                             | Descrizione                                                    |                                Link                                 |
+| :-------------------------------- | :------------------------------------------------------------- | :-----------------------------------------------------------------: |
+| **📡 Control Of Network Systems** | Appunti completi del corso del Prof. Mascolo.                  | [📖 Leggi](https://cresh-dev.github.io/Control-Of-Network-Systems/) |
+| **🔐 Cryptography**               | Appunti di crittografia basati sulle lezioni del Prof. Pavese. |        [📖 Leggi](https://cresh-dev.github.io/Cryptography/)        |
+
+<br>
+_Contribuisci anche tu o segnala un errore aprendo una issue su GitHub!_
