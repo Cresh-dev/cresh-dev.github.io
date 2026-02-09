@@ -20,6 +20,12 @@ Raccolta di materiale didattico formattato in **LaTeX/Markdown** per il Politecn
 - **Tech:** LaTeX, Markdown
 - **Link:** [🌐 Sito Web](https://cresh-dev.github.io/Cryptography/) | [📂 Repository GitHub](https://github.com/Cresh-dev/Cryptography)
 
+### 🛜 Network Security
+
+- **Descrizione:** Appunti completi redatti seguendo le lezioni del Prof. Giuseppe Piro.
+- **Tech:** LaTeX, Markdown
+- **Link:** [🌐 Sito Web](https://cresh-dev.github.io/Network-Security/) | [📂 Repository GitHub](https://github.com/Cresh-dev/Network-Security)
+
 ---
 
 ## 🛠️ Altri Progetti
