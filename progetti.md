@@ -26,6 +26,12 @@ Raccolta di materiale didattico formattato in **LaTeX/Markdown** per il Politecn
 - **Tech:** LaTeX, Markdown
 - **Link:** [🌐 Sito Web](https://cresh-dev.github.io/Network-Security/) | [📂 Repository GitHub](https://github.com/Cresh-dev/Network-Security)
 
+### 🥷🏼​ Ethical Hacking Laboratory
+
+- **Descrizione:** Appunti completi redatti seguendo le lezioni del Prof. Marco Olivieri.
+- **Tech:** LaTeX, Markdown
+- **Link:** [🌐 Sito Web](https://cresh-dev.github.io/Ethical-hacking-laboratory/) | [📂 Repository GitHub](https://github.com/Cresh-dev/Ethical-hacking-laboratory)
+
 ---
 
 ## 🛠️ Altri Progetti
