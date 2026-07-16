@@ -32,6 +32,12 @@ Raccolta di materiale didattico formattato in **LaTeX/Markdown** per il Politecn
 - **Tech:** LaTeX, Markdown
 - **Link:** [🌐 Sito Web](https://cresh-dev.github.io/Ethical-hacking-laboratory/) | [📂 Repository GitHub](https://github.com/Cresh-dev/Ethical-hacking-laboratory)
 
+### 👨🏻‍💻 Secure Programming Laboratory
+
+- **Descrizione:** Appunti completi redatti seguendo le lezioni del Prof. Giuseppe Loseto.
+- **Tech:** LaTeX, Markdown
+- **Link:** [🌐 Sito Web](https://cresh-dev.github.io/Secure-Programming-Laboratory/) | [📂 Repository GitHub](https://github.com/Cresh-dev/Secure-Programming-Laboratory)
+
 ---
 
 ## 🛠️ Altri Progetti
