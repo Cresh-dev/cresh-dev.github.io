@@ -5,28 +5,28 @@
   sigla: NetSec
   professore: Prof. Giuseppe Piro
   argomenti: PKI, AAA, TLS, IPSec, VPN
-  note: 14
+  note: 15
 
 - repo: Cryptography
   titolo: Cryptography
   sigla: Crypto
   professore: Prof. Francesco Pavese
   argomenti: crittografia simmetrica e asimmetrica
-  note: 5
+  note: 6
 
 - repo: Ethical-hacking-laboratory
   titolo: Ethical Hacking Laboratory
   sigla: EHL
   professore: Prof. Marco Olivieri
   argomenti: VA, exploitation, MITM, password attack
-  note: 46
+  note: 47
 
 - repo: Secure-Programming-Laboratory
   titolo: Secure Programming Laboratory
   sigla: SPL
   professore: Prof. Giuseppe Loseto
   argomenti: web security, mobile, IoT, DevSecOps
-  note: 27
+  note: 28
 
 - repo: Control-Of-Network-Systems
   titolo: Control of Network Systems
