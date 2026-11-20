@@ -1,0 +1,13 @@
+{%- assign hub = "https://cresh-dev.github.io/" -%}
+<header class="topbar">
+  <a class="brand" href="{{ hub }}"><span class="brand-dot" aria-hidden="true">●</span><span class="brand-name">Alessio Crescenzio</span></a>
+  <nav aria-label="Menu principale">
+    <ul>
+      <li><a href="{{ hub }}"{% if page.url == "/" %} aria-current="page"{% endif %}>Home</a></li>
+      <li><a href="{{ hub }}#appunti">Appunti</a></li>
+      <li><a href="{{ hub }}progetti/"{% if page.url == "/progetti/" %} aria-current="page"{% endif %}>Progetti</a></li>
+      <li><a href="{{ hub }}chi-sono/"{% if page.url == "/chi-sono/" %} aria-current="page"{% endif %}>Chi sono</a></li>
+    </ul>
+    <button id="theme-toggle" class="theme-toggle" type="button" aria-label="Cambia tema chiaro/scuro"><span aria-hidden="true">◐</span></button>
+  </nav>
+</header>

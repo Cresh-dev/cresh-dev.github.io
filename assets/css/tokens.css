@@ -1,0 +1,64 @@
+/* GENERATO da Sites/tools/sync.mjs (fonte: quartz-cresh-theme/tokens.css): non modificare a mano. */
+/* ==========================================================================
+   Token del tema "Moderno minimal" — UNICA fonte di colori e font
+   per tutti i siti di cresh-dev.github.io.
+   Quartz usa l'attributo [saved-theme], il sito Jekyll [data-theme]:
+   i selettori coprono entrambi. sync.mjs copia questo file nel sito Jekyll.
+   ========================================================================== */
+
+:root {
+  --font-heading: "Schibsted Grotesk", "Inter", system-ui, sans-serif;
+  --font-body: "Inter", system-ui, -apple-system, "Segoe UI", sans-serif;
+  --font-code: "IBM Plex Mono", ui-monospace, "SFMono-Regular", monospace;
+
+  --radius: 9px;
+
+  --bg: #ffffff;
+  --surface: #f8fafc;
+  --border: #e2e8f0;
+  --heading: #0f172a;
+  --text: #334155;
+  --muted: #64748b;
+  --accent: #4f46e5;
+  --accent-hover: #4338ca;
+  --accent-soft: #eef2ff;
+  --on-accent: #ffffff;
+  --code-bg: #f1f5f9;
+  --code-text: #be185d;
+  --shadow: rgba(15, 23, 42, 0.08);
+}
+
+:root[saved-theme="dark"],
+:root[data-theme="dark"] {
+  --bg: #0b1120;
+  --surface: #111a2e;
+  --border: #1e293b;
+  --heading: #f1f5f9;
+  --text: #cbd5e1;
+  --muted: #94a3b8;
+  --accent: #818cf8;
+  --accent-hover: #a5b4fc;
+  --accent-soft: #1e1b4b;
+  --on-accent: #0b1120;
+  --code-bg: #111a2e;
+  --code-text: #f9a8d4;
+  --shadow: rgba(0, 0, 0, 0.4);
+}
+
+@media (prefers-color-scheme: dark) {
+  :root:not([saved-theme]):not([data-theme]) {
+    --bg: #0b1120;
+    --surface: #111a2e;
+    --border: #1e293b;
+    --heading: #f1f5f9;
+    --text: #cbd5e1;
+    --muted: #94a3b8;
+    --accent: #818cf8;
+    --accent-hover: #a5b4fc;
+    --accent-soft: #1e1b4b;
+    --on-accent: #0b1120;
+    --code-bg: #111a2e;
+    --code-text: #f9a8d4;
+    --shadow: rgba(0, 0, 0, 0.4);
+  }
+}

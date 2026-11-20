@@ -1,0 +1,36 @@
+# Fonte unica dei corsi: alimenta la griglia della home e, tramite Sites/tools/sync.mjs,
+# la configurazione Quartz di ogni repo di appunti. Il campo `note` lo scrive sync.mjs.
+- repo: Network-Security
+  titolo: Network Security
+  sigla: NetSec
+  professore: Prof. Giuseppe Piro
+  argomenti: PKI, AAA, TLS, IPSec, VPN
+  note: 14
+
+- repo: Cryptography
+  titolo: Cryptography
+  sigla: Crypto
+  professore: Prof. Francesco Pavese
+  argomenti: crittografia simmetrica e asimmetrica
+  note: 5
+
+- repo: Ethical-hacking-laboratory
+  titolo: Ethical Hacking Laboratory
+  sigla: EHL
+  professore: Prof. Marco Olivieri
+  argomenti: VA, exploitation, MITM, password attack
+  note: 46
+
+- repo: Secure-Programming-Laboratory
+  titolo: Secure Programming Laboratory
+  sigla: SPL
+  professore: Prof. Giuseppe Loseto
+  argomenti: web security, mobile, IoT, DevSecOps
+  note: 27
+
+- repo: Control-Of-Network-Systems
+  titolo: Control of Network Systems
+  sigla: CNS
+  professore: Prof. Saverio Mascolo
+  argomenti: controllo, congestione, Docker e Kubernetes
+  note: 44

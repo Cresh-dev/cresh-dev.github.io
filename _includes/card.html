@@ -1,0 +1,16 @@
+{%- comment -%}
+  Card riutilizzabile per corsi e progetti.
+  Parametri: titolo, sottotitolo, pill, link_sito (facoltativo), link_repo
+{%- endcomment -%}
+<article class="card">
+  <h3 class="card-title">{{ include.titolo }}</h3>
+  <p class="card-sub">{{ include.sottotitolo }}</p>
+  <div class="card-foot">
+    <span class="pill">{{ include.pill }}</span>
+    {%- if include.link_sito %}
+    <a class="card-link" href="{{ include.link_sito }}" aria-label="Apri {{ include.titolo }}">Apri →</a>
+    {%- else %}
+    <a class="card-link" href="{{ include.link_repo }}" aria-label="Repository di {{ include.titolo }}">Repo →</a>
+    {%- endif %}
+  </div>
+</article>
